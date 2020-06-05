@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dates>
+  <date value="2019-02-25">
+     <movie name="Власть1">
+      <session time="11:30" />
+      <session time="12:30" />
+      <session time="14:32" />
+      <session time="19:00" />
+     </movie>
+     <movie name="Стекло">
+      <session time="10:00" />
+    </movie>
+  </date>
+  <date value="2019-02-26">
+    <movie name="Власть">
+      <session time="10:30" />
+      <session time="19:00" />
+    </movie>
+    <movie name="Лего фильм 2">
+      <session time="15:15" />
+      <session time="18:10" />
+      <session time="20:20" />
+    </movie>
+    <movie name="Зеленая книга">
+      <session time="11:30" />
+      <session time="16:45" />
+    </movie>
+  </date>
+  <date value="2019-02-28">
+    <movie name="Власть">
+      <session time="11:30" />
+    </movie>
+    <movie name="Лего фильм 2">
+      <session time="13:25" />
+      <session time="17:20" />
+    </movie>
+    <movie name="Зеленая книга">
+      <session time="12:00" />
+      <session time="17:00" />
+    </movie>
+  </date>
+</dates>
+
+
