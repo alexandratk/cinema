@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user name="name">
+    <date>date</date>
+    <movie>film</movie>
+    <session>time</session>
+  </user>
+  <user name="23">
+    <date>25 февраля (пн)</date>
+    <movie>Власть1</movie>
+    <session>11:30</session>
+  </user>
+</users>
